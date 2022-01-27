@@ -8,5 +8,12 @@
   }, {
     "question": "What will you do to avoid being banned in the future?",
     "character_limit": 1024
+    }, {
+       "question": "Sign Your Discord Name?",
+    "character_limit": 1024
+      }, {
+         "question": "Sign The Date?",
+    "character_limit": 1024
+        
   }
 ]
